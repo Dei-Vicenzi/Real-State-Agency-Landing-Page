@@ -2,4 +2,4 @@
 
 Realizazada con HTML, SCSS y JavaScript.
 
-Librerias: Slider.js.
+Libreria usada:  Slider.js.
