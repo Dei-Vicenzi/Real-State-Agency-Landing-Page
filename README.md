@@ -4,6 +4,6 @@
 -Fully responsive website <br>
 -Libreria:  Slider.js.<br>
 
-<a href="https://app.netlify.com/sites/real-state-agency-landing-page/overview">
-<h3>Live Demo<h3>
-</a>
+<h3> <a href="https://app.netlify.com/sites/real-state-agency-landing-page/overview">
+Live Demo
+</a></h3>
